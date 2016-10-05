@@ -6,8 +6,20 @@
     <description>Recent content in Blogs on BreizhCamp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Sat, 24 Sep 2016 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 06 Oct 2016 13:00:46 +0200</lastBuildDate>
     <atom:link href="http://www-staging.breizhcamp.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Essai de captation vidéo</title>
+      <link>http://www-staging.breizhcamp.org/blog/2016/10/06/2016-10-06-videos/</link>
+      <pubDate>Thu, 06 Oct 2016 13:00:46 +0200</pubDate>
+      
+      <guid>http://www-staging.breizhcamp.org/blog/2016/10/06/2016-10-06-videos/</guid>
+      <description>&lt;p&gt;Comme vous avez pu le constater, on est pas très fort en montage vidéo, donc pour la prochaine édition, on va essayer de mettre en place un système de capture en direct. Comme ça, le montage est effectué en direct et à la fin d&amp;rsquo;une conférence, on peut envoyer la vidéo montée sur Internet sans rien avoir à faire.&lt;/p&gt;
+
+&lt;p&gt;Hier au JUG, nous avons essayé ce nouveau système et le résultat est plutôt convaiquant pour un premier essai. Pour vous faire une idée, la video est ici:&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>On rempile pour 2017</title>
