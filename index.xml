@@ -15,9 +15,11 @@
       <pubDate>Thu, 06 Oct 2016 13:00:46 +0200</pubDate>
       
       <guid>http://www-staging.breizhcamp.org/blog/2016/10/06/2016-10-06-videos/</guid>
-      <description>&lt;p&gt;Comme vous avez pu le constater, on est pas très fort en montage vidéo, donc pour la prochaine édition, on va essayer de mettre en place un système de capture en direct. Comme ça, le montage est effectué en direct et à la fin d&amp;rsquo;une conférence, on peut envoyer la vidéo montée sur Internet sans rien avoir à faire.&lt;/p&gt;
+      <description>&lt;p&gt;Comme vous avez pu le constater, on est pas très fort en montage vidéo, donc pour la prochaine édition, on va essayer de mettre en place un système de capture en direct. Comme ça, plus de montage à postériori et dès la fin d&amp;rsquo;une conférence, on peut envoyer la vidéo sur YouTube.&lt;/p&gt;
 
-&lt;p&gt;Hier au JUG, nous avons essayé ce nouveau système et le résultat est plutôt convaiquant pour un premier essai. Pour vous faire une idée, la video est ici:&lt;/p&gt;
+&lt;p&gt;Hier au JUG, nous avons essayé ce nouveau système et le résultat est plutôt convaiquant pour un premier essai. Pour vous faire une idée, voici la &lt;a href=&#34;https://www.youtube.com/watch?v=TmFP9R4AD-c&#34;&gt;video de la captation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Vous pouvez suivre le développement de notre malette &lt;a href=&#34;https://github.com/breizhcamp/camaaloth&#34;&gt;Camaaloth sur GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -32,6 +34,23 @@
 &lt;p&gt;Pour vous faire patienter, on a mis en ligne les archives des années précédentes sur ce nouveau site Web, que l&amp;rsquo;on espère pouvoir le finir d&amp;rsquo;ici le début de la conférence, n&amp;rsquo;hésitez pas à proposer des &lt;a href=&#34;https://github.com/breizhcamp/www&#34;&gt;Pull Request&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Le prochain post annoncera le gagnant du concours &lt;strong&gt;BreizhCa&amp;hellip; La conférence à l&amp;rsquo;&amp;hellip;&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Retour sur l&#39;édition 2016</title>
+      <link>http://www-staging.breizhcamp.org/blog/2016/04/07/2016-04-07-retour/</link>
+      <pubDate>Thu, 07 Apr 2016 23:50:00 +0200</pubDate>
+      
+      <guid>http://www-staging.breizhcamp.org/blog/2016/04/07/2016-04-07-retour/</guid>
+      <description>&lt;p&gt;Avant de vous faire un retour suite la petite enquête à laquelle, je n&amp;rsquo;en doute pas, vous avez accordé quelques minutes, voici les commentaires de quelques participants à cette édition 2017 :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.wescale.fr/2016/03/30/cracking-breizhcamp-enigma/&#34;&gt;Cracking BreizhCamp Enigma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.xebia.fr/2016/04/05/breizhcamp-2016-compte-rendu-de-la-journee-du-mercredi&#34;&gt;Compte-rendu de la journée du mercredi&lt;/a&gt; par Xebia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.xebia.fr/2016/04/06/breizhcamp-2016-compte-rendu-de-la-journee-du-jeudi&#34;&gt;Compte-rendu de la journée du jeudi&lt;/a&gt; par Xebia&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.zenika.com/2016/04/06/retour-sur-le-breizhcamp-2016/&amp;quot;&amp;gt;Retour sur le Breizhcamp 2016&#34;&gt;Retour sur le Breizhcamp 2016&lt;/a&gt; par Zenika&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
