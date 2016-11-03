@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BreizhCamp</title>
+    <title>BreizhCamp - 7ème édition</title>
     <link>http://www-staging.breizhcamp.org/</link>
-    <description>Recent content on BreizhCamp</description>
+    <description>Recent content on BreizhCamp - 7ème édition</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <lastBuildDate>Thu, 06 Oct 2016 13:00:46 +0200</lastBuildDate>
