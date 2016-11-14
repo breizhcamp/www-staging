@@ -2,19 +2,89 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>BreizhCamp - 7ème édition</title>
-    <link>http://www-staging.breizhcamp.org/</link>
+    <link>http://www.breizhcamp.org/</link>
     <description>Recent content on BreizhCamp - 7ème édition</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <lastBuildDate>Thu, 06 Oct 2016 13:00:46 +0200</lastBuildDate>
-    <atom:link href="http://www-staging.breizhcamp.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Nov 2016 10:52:38 +0200</lastBuildDate>
+    <atom:link href="http://www.breizhcamp.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ouverture de la billetterie</title>
+      <link>http://www.breizhcamp.org/blog/2016/11/12/2016-11-12-ouverture/</link>
+      <pubDate>Sat, 12 Nov 2016 10:52:38 +0200</pubDate>
+      
+      <guid>http://www.breizhcamp.org/blog/2016/11/12/2016-11-12-ouverture/</guid>
+      <description>&lt;p&gt;Nous avons ouvert la billetterie, vous pouvez donc prendre vos places sur &lt;a href=&#34;https://www.weezevent.com/bzhc4mp17&#34;&gt;https://www.weezevent.com/bzhc4mp17&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A propos des différentes types de places :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;le mercredi 19 avril regrouper les &lt;strong&gt;Universités&lt;/strong&gt;, des sessions de 2h et des ateliers, destinés à vous permettre de prendre pied sur une technologie et de vous l&amp;rsquo;approprier.&lt;/li&gt;
+&lt;li&gt;les journées du jeudi 20 et du vendredi 21 sont consacrées aux &lt;strong&gt;conférences&lt;/strong&gt;, des sessions de 55 minutes pour brosser en 48h toutes les nouveautés des divers écosystèmes présents au BreizhCamp.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Nous avons donc trois billets qui vous sont proposés : des billets pour la journée université, pour les deux jours de conférences, ou bien le combo pour ne rien manquer.&lt;/p&gt;
+
+&lt;p&gt;Par ailleurs, nous proposons aussi un tarif libre pour ceux qui nous apprécient tellement qu&amp;rsquo;ils sont même prèts à faire un don pour un BreizhCamp encore plus à l&amp;rsquo;ouest. On sait jamais :P&lt;/p&gt;
+
+&lt;p&gt;Notez bien que ces billets sont nominatifs et non remboursables. Si vous avez un empêchement vous pourrez céder votre place à un tiers, dans ce cas il faudra penser à nous le faire savoir au plus tôt &lt;a href=&#34;mailto:contact@breizhcamp.org&#34;&gt;par email&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Concours</title>
+      <link>http://www.breizhcamp.org/blog/2016/11/07/2016-11-07-concours/</link>
+      <pubDate>Mon, 07 Nov 2016 10:52:38 +0200</pubDate>
+      
+      <guid>http://www.breizhcamp.org/blog/2016/11/07/2016-11-07-concours/</guid>
+      <description>&lt;p&gt;Lors de l&amp;rsquo;édition 2016, suite à un petit oubli de notre dictateur bénévole (sic), la banderole a du être commandée au dernier moment sans demander
+à l&amp;rsquo;imprimeur un BAT (bon à tirer). Et bien sur ce qui devait arriver est arrivé, la dite banderole s&amp;rsquo;est retrouvé étrangement amputée de sa
+partie droite.&lt;/p&gt;
+
+&lt;p&gt;Incapable d&amp;rsquo;admettre son erreur, notre despote à vie a décidé de lancer un grand concours. Il a invité les participants
+à proposer (par twitter interposé) des slogans pour la conférence, avec comme seule règle de devoir compléter la banderole
+et a promis au gagant une place a vie aux futures éditions du BreizhCamp.&lt;/p&gt;
+
+&lt;p&gt;Il faut croire que vous êtes tout aussi &amp;ldquo;&lt;em&gt;à l&amp;rsquo;ouest&lt;/em&gt;&amp;rdquo; que notre conférence, car nous avons reçu 106 propositions toutes aussi désopilantes
+que les autres. Le dépouillement a été délicat, et nous arrivons à deux ex aequo&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/JaouenLaurent/status/713367418832351232&#34;&gt;breizhC@nard la conférence à l&amp;rsquo;orange&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/sebvoisine/status/713067339776966657&#34;&gt;BreizhC@tch, la conférence à l&amp;rsquo;erreur bien rattrapée.&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Bravo donc à Laurent et Sébastien, qui seront nos invités jusqu&amp;rsquo;à épuisement et que mort s&amp;rsquo;en suive.&lt;/p&gt;
+
+&lt;p&gt;Nous avons également retenu quelques propositions très bien placées&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/PsYcKoZ/status/713415329158930432&#34;&gt;BreizhC@lembour La conférence à l&amp;rsquo;origine des meilleurs jeux de mots&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/SebBLAISOT/status/713139568896245760&#34;&gt;BreizhC@moulox, la conférence à l&amp;rsquo;avance de deux et relance de trois&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/Cedr33k/status/713258676891557888&#34;&gt;BreizhC@mp; la conférence à l&amp;rsquo;&amp;amp;codage douteux&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;ainsi que celle ci, non conforme au règlement, mais qui nous correspondant si bien :&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/GwennCollic/status/714430019334979585&#34;&gt;BreizhC@melott, la conférence de l&amp;rsquo;armorique&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ces derniers nous ayant bien fait marrer, nous avons décidé d&amp;rsquo;offrir à Alain, Sébastien, Cédric et Gwennaëlle leur place pour 2017, afin de pouvoir participer à un nouveau challenge que nous ne manquerons pas de mettre en place !&lt;/p&gt;
+
+&lt;p&gt;Merci à tous de votre participation !&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Essai de captation vidéo</title>
-      <link>http://www-staging.breizhcamp.org/blog/2016/10/06/2016-10-06-videos/</link>
+      <link>http://www.breizhcamp.org/blog/2016/10/06/2016-10-06-videos/</link>
       <pubDate>Thu, 06 Oct 2016 13:00:46 +0200</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/blog/2016/10/06/2016-10-06-videos/</guid>
+      <guid>http://www.breizhcamp.org/blog/2016/10/06/2016-10-06-videos/</guid>
       <description>&lt;p&gt;Comme vous avez pu le constater, on est pas très fort en montage vidéo, donc pour la prochaine édition, on va essayer de mettre en place un système de capture en direct. Comme ça, plus de montage à postériori et dès la fin d&amp;rsquo;une conférence, on peut envoyer la vidéo sur YouTube.&lt;/p&gt;
 
 &lt;p&gt;Hier au JUG, nous avons essayé ce nouveau système et le résultat est plutôt convaiquant pour un premier essai. Pour vous faire une idée, voici la &lt;a href=&#34;https://www.youtube.com/watch?v=TmFP9R4AD-c&#34;&gt;video de la captation&lt;/a&gt;&lt;/p&gt;
@@ -25,10 +95,10 @@
     
     <item>
       <title>On rempile pour 2017</title>
-      <link>http://www-staging.breizhcamp.org/blog/2016/09/24/2016-09-24-on-rempile/</link>
+      <link>http://www.breizhcamp.org/blog/2016/09/24/2016-09-24-on-rempile/</link>
       <pubDate>Sat, 24 Sep 2016 13:50:46 +0200</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/blog/2016/09/24/2016-09-24-on-rempile/</guid>
+      <guid>http://www.breizhcamp.org/blog/2016/09/24/2016-09-24-on-rempile/</guid>
       <description>&lt;p&gt;Voila, c&amp;rsquo;est décidé, on rempile en 2017. Pour l&amp;rsquo;instant, pas grand chose à montrer. Nous n&amp;rsquo;avons pas encore fixé les dates. Mais rassurez vous, le Kick-Off s&amp;rsquo;est bien passé. Le bilan calorique est à la mesure du BreizhCamp, 14 pizzas, 1 valise de Leffe et un Crumble géant.&lt;/p&gt;
 
 &lt;p&gt;Pour vous faire patienter, on a mis en ligne les archives des années précédentes sur ce nouveau site Web, que l&amp;rsquo;on espère pouvoir le finir d&amp;rsquo;ici le début de la conférence, n&amp;rsquo;hésitez pas à proposer des &lt;a href=&#34;https://github.com/breizhcamp/www&#34;&gt;Pull Request&lt;/a&gt;.&lt;/p&gt;
@@ -39,10 +109,10 @@
     
     <item>
       <title>Retour sur l&#39;édition 2016</title>
-      <link>http://www-staging.breizhcamp.org/blog/2016/04/07/2016-04-07-retour/</link>
+      <link>http://www.breizhcamp.org/blog/2016/04/07/2016-04-07-retour/</link>
       <pubDate>Thu, 07 Apr 2016 23:50:00 +0200</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/blog/2016/04/07/2016-04-07-retour/</guid>
+      <guid>http://www.breizhcamp.org/blog/2016/04/07/2016-04-07-retour/</guid>
       <description>&lt;p&gt;Avant de vous faire un retour suite la petite enquête à laquelle, je n&amp;rsquo;en doute pas, vous avez accordé quelques minutes, voici les commentaires de quelques participants à cette édition 2017 :&lt;/p&gt;
 
 &lt;ul&gt;
@@ -56,17 +126,17 @@
     
     <item>
       <title>Contest</title>
-      <link>http://www-staging.breizhcamp.org/blog/2016/03/24/2016-03-24-contest/</link>
+      <link>http://www.breizhcamp.org/blog/2016/03/24/2016-03-24-contest/</link>
       <pubDate>Thu, 24 Mar 2016 23:50:00 +0200</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/blog/2016/03/24/2016-03-24-contest/</guid>
+      <guid>http://www.breizhcamp.org/blog/2016/03/24/2016-03-24-contest/</guid>
       <description>&lt;p&gt;Pour aider nos participants à trouver le (nouveau) lieu de la conférence, nous avions prévu une belle banderole.
 Bon, notre dictateur bénévole n&amp;rsquo;étant pas très doué, la banderole a été commandée tardivement - certains dirons &amp;ldquo;à l&amp;rsquo;arrache&amp;rdquo; -
 et sans prendre l&amp;rsquo;option &amp;ldquo;Bon A Tirer&amp;rdquo; qui permet en principe de valider le rendu avant impression.&lt;/p&gt;
 
 &lt;p&gt;Et donc &amp;hellip;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www-staging.breizhcamp.org/img/blog/2016-03-24/bache.jpg&#34; alt=&#34;Bâche&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.breizhcamp.org/img/blog/2016-03-24/bache.jpg&#34; alt=&#34;Bâche&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Interrogé sur le sujet, le responsable de ce qui semble une belle boulette répond :
 &amp;ldquo;Pas du tout, il s&amp;rsquo;agit d&amp;rsquo;un challenge que nous proposons à nos participants&amp;rdquo;&lt;/p&gt;
@@ -87,21 +157,21 @@ La conférence à l&amp;rsquo; &amp;hellip;.
     
     <item>
       <title>Programmation</title>
-      <link>http://www-staging.breizhcamp.org/blog/2016/02/22/2016-02-22-programmation/</link>
+      <link>http://www.breizhcamp.org/blog/2016/02/22/2016-02-22-programmation/</link>
       <pubDate>Mon, 22 Feb 2016 09:00:00 +0200</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/blog/2016/02/22/2016-02-22-programmation/</guid>
+      <guid>http://www.breizhcamp.org/blog/2016/02/22/2016-02-22-programmation/</guid>
       <description>&lt;p&gt;Jeudi soir (le 18 février 2016), il y avait une étape très importante pour
 l&amp;rsquo;équipe de l&amp;rsquo;organisation du Breizhcamp. Nous devions vous préparer un
 programme qui déchire.&lt;/p&gt;
 
 &lt;p&gt;L&amp;rsquo;objectif de la soirée, transformer ça :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www-staging.breizhcamp.org/img/blog/2016-02-22/programme-talks-small.jpg&#34; alt=&#34;Fiches des propositions&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.breizhcamp.org/img/blog/2016-02-22/programme-talks-small.jpg&#34; alt=&#34;Fiches des propositions&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;En ça :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www-staging.breizhcamp.org/img/blog/2016-02-22/programme-schedule.jpg&#34; alt=&#34;Programme&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.breizhcamp.org/img/blog/2016-02-22/programme-schedule.jpg&#34; alt=&#34;Programme&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Oui, on ne voit rien. Mais c&amp;rsquo;est comme ça ! Je pourrais même dire que c&amp;rsquo;est fait
 exprès.&lt;/p&gt;
@@ -124,13 +194,13 @@ remplir tous les espaces.&lt;/p&gt;
 &lt;p&gt;Mais maintenant, le moment le plus important de la soirée arrive. Enfin c&amp;rsquo;est
 surtout les pizzas qui arrivent.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www-staging.breizhcamp.org/img/blog/2016-02-22/programme-pizzas.jpg&#34; alt=&#34;Pizzas&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.breizhcamp.org/img/blog/2016-02-22/programme-pizzas.jpg&#34; alt=&#34;Pizzas&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Le but était de tacher de gras le programme. Et il ne faut pas oublier de
 parler des facilitateurs que nous avons utilisés dans la soirée. Oui nous avons
 des agilistes dans l&amp;rsquo;équipe :&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www-staging.breizhcamp.org/img/blog/2016-02-22/programme-bieres.jpg&#34; alt=&#34;Bières&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.breizhcamp.org/img/blog/2016-02-22/programme-bieres.jpg&#34; alt=&#34;Bières&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Il fallait bien compléter le stéréotype de la malbouffe de l&amp;rsquo;ingénieur
 informatique : couple pizzas/bières.&lt;/p&gt;
@@ -178,10 +248,10 @@ d&amp;rsquo;en faire l&amp;rsquo;association pour préparer le fameux fichier JS
     
     <item>
       <title>Premiers talks sélectionnés</title>
-      <link>http://www-staging.breizhcamp.org/blog/2016/02/12/2016-02-12-premierstalks/</link>
+      <link>http://www.breizhcamp.org/blog/2016/02/12/2016-02-12-premierstalks/</link>
       <pubDate>Fri, 12 Feb 2016 16:39:38 +0200</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/blog/2016/02/12/2016-02-12-premierstalks/</guid>
+      <guid>http://www.breizhcamp.org/blog/2016/02/12/2016-02-12-premierstalks/</guid>
       <description>
 
 &lt;p&gt;Le &lt;a href=&#34;https://cfp.breizhcamp.org&#34;&gt;CFP&lt;/a&gt; est fermé depuis le 2 février &amp;hellip; et l&amp;rsquo;équipe doit maintenant faire des choix pour établir un programme le plus équilibré possible. Pour cela, chaque membre de l&amp;rsquo;équipe passe en revue toutes les propositions et vote pour chacune d&amp;rsquo;elle. Les votes se terminent mercredi prochain (le &lt;sup&gt;17&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;) ouvrant ainsi la voie à l&amp;rsquo;élaboration du programme.&lt;/p&gt;
@@ -475,10 +545,10 @@ d&amp;rsquo;en faire l&amp;rsquo;association pour préparer le fameux fichier JS
     
     <item>
       <title>Un peu de sécurité</title>
-      <link>http://www-staging.breizhcamp.org/blog/2015/12/21/2015-12-21-letsencrypt/</link>
+      <link>http://www.breizhcamp.org/blog/2015/12/21/2015-12-21-letsencrypt/</link>
       <pubDate>Mon, 21 Dec 2015 16:39:38 +0200</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/blog/2015/12/21/2015-12-21-letsencrypt/</guid>
+      <guid>http://www.breizhcamp.org/blog/2015/12/21/2015-12-21-letsencrypt/</guid>
       <description>
 
 &lt;p&gt;Depuis le 3 décembre, &lt;a href=&#34;https://letsencrypt.org/&#34;&gt;Let&amp;rsquo;s Encrypt&lt;/a&gt; est passée dans sa phase d&amp;rsquo;Open Beta.
@@ -495,7 +565,7 @@ La nouveauté réside principalement dans la combinaison de 3 éléments :&lt;/p
 &lt;li&gt;&lt;p&gt;Le service est automatisable, notamment grâce à l&amp;rsquo;utilisation du protocole &lt;a href=&#34;https://en.wikipedia.org/wiki/Automated_Certificate_Management_Environment&#34;&gt;ACME&lt;/a&gt; : Automated Certificate Management Environment.&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://www-staging.breizhcamp.org/img/blog/2016-12-21/acme.jpg&#34; alt=&#34;ACME&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://www.breizhcamp.org/img/blog/2016-12-21/acme.jpg&#34; alt=&#34;ACME&#34; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Le service est opéré par un groupement d&amp;rsquo;intérêt public, &lt;a href=&#34;https://letsencrypt.org/isrg/&#34;&gt;l&amp;rsquo;ISRP&lt;/a&gt; : Internet Security Research Group, ayant pour but une gouverance ouverte et transparente.&lt;/li&gt;
@@ -543,10 +613,10 @@ J&amp;rsquo;ai donc choisi d&amp;rsquo;exécuter le client dans un conteneur Doc
     
     <item>
       <title>Concours</title>
-      <link>http://www-staging.breizhcamp.org/blog/2015/11/22/2015-11-22-concours/</link>
+      <link>http://www.breizhcamp.org/blog/2015/11/22/2015-11-22-concours/</link>
       <pubDate>Sun, 22 Nov 2015 17:14:38 +0200</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/blog/2015/11/22/2015-11-22-concours/</guid>
+      <guid>http://www.breizhcamp.org/blog/2015/11/22/2015-11-22-concours/</guid>
       <description>&lt;p&gt;Gagnez votre place au BreizhCamp 2016!&lt;/p&gt;
 
 &lt;p&gt;Dans notre vidéo trailer, nous nous sommes bien marrés à mettre en scène &lt;a href=&#34;https://youtu.be/BDdH97iblG8?t=1m49s&#34;&gt;un combat&lt;/a&gt;
@@ -562,10 +632,10 @@ invité pour le BreizhCamp 2016.&lt;/p&gt;
     
     <item>
       <title>Trailer 2016</title>
-      <link>http://www-staging.breizhcamp.org/blog/2015/11/20/2015-11-20-youtube/</link>
+      <link>http://www.breizhcamp.org/blog/2015/11/20/2015-11-20-youtube/</link>
       <pubDate>Fri, 20 Nov 2015 14:24:38 +0200</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/blog/2015/11/20/2015-11-20-youtube/</guid>
+      <guid>http://www.breizhcamp.org/blog/2015/11/20/2015-11-20-youtube/</guid>
       <description>&lt;p&gt;Nous venons de publier le &lt;a href=&#34;https://www.youtube.com/watch?v=BDdH97iblG8&#34;&gt;trailer&lt;/a&gt; du BreizhCamp 2016, premier signe d&amp;rsquo;exsitence de cette édition 2016. Parce qu&amp;rsquo;il faut bien
 le reconnaître, à ce stade tout reste encore à faire&amp;hellip;&lt;/p&gt;
 
@@ -583,10 +653,10 @@ caméra - d&amp;rsquo;où la bande son assez dégeulasse, et la musique pour mas
     
     <item>
       <title>Go, Go, Go</title>
-      <link>http://www-staging.breizhcamp.org/blog/2015/10/01/2015-10-01-gogogo/</link>
+      <link>http://www.breizhcamp.org/blog/2015/10/01/2015-10-01-gogogo/</link>
       <pubDate>Thu, 01 Oct 2015 10:52:38 +0200</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/blog/2015/10/01/2015-10-01-gogogo/</guid>
+      <guid>http://www.breizhcamp.org/blog/2015/10/01/2015-10-01-gogogo/</guid>
       <description>&lt;p&gt;Toute l&amp;rsquo;équipe du BreizhCamp se mobilise en cette rentrée pour vous préparer une édition 2016 à la hauteur de nos engagements.&lt;/p&gt;
 
 &lt;p&gt;Tout d’abord, nous vous avions promis de doubler la capacité d’accueil, les places pours 2015 étant toute parties en à peine 6 jours. Challenge relevé, avec un changement de lieu : nous serons accueillis en 2016 dans les locaux de l’Université Rennes 1. Pour nous cela veut dire pas mal d’inconnues à résoudre, mais le jeu en vaut la chandelle.&lt;/p&gt;
@@ -599,10 +669,10 @@ caméra - d&amp;rsquo;où la bande son assez dégeulasse, et la musique pour mas
     
     <item>
       <title>Association</title>
-      <link>http://www-staging.breizhcamp.org/asso/</link>
+      <link>http://www.breizhcamp.org/asso/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/asso/</guid>
+      <guid>http://www.breizhcamp.org/asso/</guid>
       <description>&lt;p&gt;Le BreizhCamp est une association loi 1901.&lt;/p&gt;
 
 &lt;p&gt;Pour nous rejoindre : contact@breizhcamp.org&lt;/p&gt;
@@ -611,10 +681,10 @@ caméra - d&amp;rsquo;où la bande son assez dégeulasse, et la musique pour mas
     
     <item>
       <title>Conférence</title>
-      <link>http://www-staging.breizhcamp.org/conference/</link>
+      <link>http://www.breizhcamp.org/conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/conference/</guid>
+      <guid>http://www.breizhcamp.org/conference/</guid>
       <description>
 
 &lt;h1 id=&#34;call-for-proposal:b5ada10c3d3f70226b97ae7a2cbdf975&#34;&gt;Call for Proposal&lt;/h1&gt;
@@ -636,88 +706,21 @@ caméra - d&amp;rsquo;où la bande son assez dégeulasse, et la musique pour mas
     
     <item>
       <title>FAQ</title>
-      <link>http://www-staging.breizhcamp.org/faq/</link>
+      <link>http://www.breizhcamp.org/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www-staging.breizhcamp.org/faq/</guid>
+      <guid>http://www.breizhcamp.org/faq/</guid>
       <description>
 
 &lt;h2 id=&#34;quand-et-où-se-tient-le-breizhcamp-2017:4a1318da06786ac52626178ca960109e&#34;&gt;Quand et où se tient le BreizhCamp 2017 ?&lt;/h2&gt;
 
-&lt;p&gt;La 7ème édition du BreizhCamp aura lieu du 19 au 21 avril 2017. Elle se tiendra dans le bâtiment 2A de l’Université Rennes 1 comme en 2016. Toutes les informations pratiques pour venir sont sur la page &lt;a href=&#34;http://www-staging.breizhcamp.org/venir/&#34;&gt;Venir&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;combien-coûte-l-accès-au-breizhcamp:4a1318da06786ac52626178ca960109e&#34;&gt;Combien coûte l&amp;rsquo;accès au BreizhCamp ?&lt;/h2&gt;
-
-&lt;p&gt;Nous n&amp;rsquo;avons pas encore défini les tarifs. A titre indicatif, l&amp;rsquo;année dernière, le pass 3 jours coutait 90€.&lt;/p&gt;
+&lt;p&gt;La 7ème édition du BreizhCamp aura lieu du 19 au 21 avril 2017. Elle se tiendra dans le bâtiment 2A de l’Université Rennes 1 comme en 2016. Toutes les informations pratiques pour venir sont sur la page &lt;a href=&#34;http://www.breizhcamp.org/venir/&#34;&gt;Venir&lt;/a&gt;.&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;blockquote&gt;
 &lt;p&gt;N&amp;rsquo;hesitez pas à nous contacter si vous avez un problème sur notre adresse mail contact@breizhcamp.org ou sur Twitter &lt;a href=&#34;https://twitter.com/breizhcamp&#34;&gt;@breizhcamp&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Sponsors &amp; Partenaires</title>
-      <link>http://www-staging.breizhcamp.org/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www-staging.breizhcamp.org/sponsors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Venir</title>
-      <link>http://www-staging.breizhcamp.org/venir/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www-staging.breizhcamp.org/venir/</guid>
-      <description>
-
-&lt;h1 id=&#34;billetterie:18341204b384a18c143dd7afd49a35fe&#34;&gt;Billetterie&lt;/h1&gt;
-
-&lt;p&gt;La billetterie n&amp;rsquo;est pas encore ouverte, on attend d&amp;rsquo;avoir les dates !&lt;/p&gt;
-
-&lt;h1 id=&#34;lieu-de-la-conférence:18341204b384a18c143dd7afd49a35fe&#34;&gt;Lieu de la conférence&lt;/h1&gt;
-
-&lt;p&gt;Le BreizhCamp se déroule dans le bâtiment 2A de l’Université Rennes 1, sur le campus de Beaulieu à Rennes.&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;Campus de Beaulieu&lt;/p&gt;
-
-&lt;p&gt;263, avenue du Général Leclerc&lt;/p&gt;
-
-&lt;p&gt;35042 RENNES&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&#34;hébergement:18341204b384a18c143dd7afd49a35fe&#34;&gt;Hébergement&lt;/h1&gt;
-
-&lt;p&gt;De nombreux hotels sont à votre disposition près de la gare de Rennes, avec accès à la salle de conférence en 15 minutes de transports en commun.&lt;/p&gt;
-
-&lt;h1 id=&#34;venir-en-transport-en-commun:18341204b384a18c143dd7afd49a35fe&#34;&gt;Venir en transport en commun&lt;/h1&gt;
-
-&lt;p&gt;Le bus vous permet de vous rendre facilement sur place depuis…&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;… la station &lt;strong&gt;République&lt;/strong&gt; située au centre-ville de Rennes. Vous pourrez y emprunter, au choix :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;la ligne &lt;a href=&#34;https://data.explore.star.fr/explore/dataset/mkt-information-documents-td/files/0d78a07dd7b04535c3f007b3eda2a1c2/download/&#34;&gt;C4&lt;/a&gt;, ou la ligne express &lt;a href=&#34;https://data.explore.star.fr/explore/dataset/mkt-information-documents-td/files/0d78a07dd7b04535c3f007b3eda2a1c2/download/&#34;&gt;40ex&lt;/a&gt; direction &lt;strong&gt;ZA SAINT-SULPICE&lt;/strong&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;la ligne &lt;a href=&#34;https://data.explore.star.fr/explore/dataset/mkt-information-documents-td/files/d6c3c36e76e251d03fbcddd281b7549b/download/&#34;&gt;6&lt;/a&gt;, direction &lt;strong&gt;CESSON-SÉVIGNÉ&lt;/strong&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;… la gare SNCF :&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Il est possible, le matin entre 7H30 et 9H, d&amp;rsquo;emprunter la ligne express &lt;a href=&#34;https://data.explore.star.fr/explore/dataset/mkt-information-documents-td/files/74e4f1503722353c92832845c6de49e4/download/&#34;&gt;41ex&lt;/a&gt; direction &lt;strong&gt;PÂTIS TATELIN&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;En dehors de cette période, le plus simple est de prendre le métro direction &lt;strong&gt;Kennedy&lt;/strong&gt; jusqu&amp;rsquo;à &lt;strong&gt;République&lt;/strong&gt; avant d&amp;rsquo;emprunter l&amp;rsquo;un des bus indiqués ci-dessus.&lt;/p&gt;
-
-&lt;p&gt;Dans tous les cas, pensez simplement à descendre à l&amp;rsquo;arrêt &lt;strong&gt;Tournebride&lt;/strong&gt;!&lt;/p&gt;
 </description>
     </item>
     
