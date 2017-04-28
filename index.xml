@@ -7,8 +7,64 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
     <copyright>Copyright (c) 2017, BreizhCamp team</copyright>
-    <lastBuildDate>Mon, 27 Mar 2017 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2017 08:00:00 +0200</lastBuildDate>
     <atom:link href="http://www-staging.breizhcamp.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Lettre d’Information #8</title>
+      <link>http://www-staging.breizhcamp.org/blog/2017/05/02/2017-05-02-video/</link>
+      <pubDate>Tue, 02 May 2017 08:00:00 +0200</pubDate>
+      
+      <guid>http://www-staging.breizhcamp.org/blog/2017/05/02/2017-05-02-video/</guid>
+      <description>
+
+&lt;p&gt;Nous sommes très fier de pouvoir annoncer la disponibilité sur &lt;a href=&#34;https://www.youtube.com/playlist?list=PLv7xGPH0RMUQoCtdnj4T-Hou9IbbQ0nm7&#34;&gt;notre chaine Youtube&lt;/a&gt; des vidéos de l&amp;rsquo;édition 2017.
+Le tout, à peine une semaine après la cloture de l&amp;rsquo;événement, et encore elles étaient prètes avant mais nous avons attendu d&amp;rsquo;avoir accès à la fibre
+pour l&amp;rsquo;upload.&lt;/p&gt;
+
+&lt;h2 id=&#34;ambition-et-réalité&#34;&gt;Ambition et réalité&lt;/h2&gt;
+
+&lt;p&gt;Depuis plusieurs années nous tentons d&amp;rsquo;assurer la captation des sessions du BreizhCamp. Nous ne passons pas par un prestataire, d&amp;rsquo;une part parce
+que ça coûte un bras, et d&amp;rsquo;autre part parce que l&amp;rsquo;équipement de l&amp;rsquo;Université Rennes 1 cablé en VGA est un point de blocage pour pas mal de
+solutions existentes.&lt;/p&gt;
+
+&lt;p&gt;Pour 2017, après le flop de l&amp;rsquo;an dernier (2 vidéos publiées, avec un son pourri) nous avons retroussé nos manches dès septembre pour monter une
+solution complète, packagée, solide et plug&amp;rsquo;n play, que nous avons testée tout au long de l&amp;rsquo;année lors des meetups.&lt;/p&gt;
+
+&lt;h2 id=&#34;matos&#34;&gt;Matos&lt;/h2&gt;
+
+&lt;p&gt;La liste du matériel c&amp;rsquo;est rapidement allongée avec notre envie de bien faire &amp;hellip;
+Aux cartes d&amp;rsquo;acquisition HDMI s&amp;rsquo;est ajouté une table de mixage, un micro sans fil numérique serre-tête, un comrpesseur audio, un écran de contrôle intégré au boitier,
+des prises sur socle pour éviter la casse &amp;hellip; Au final nous avons du rajouter un diable pour rendre le tout transportable sans fatiguer nos vertèbres.
+Mais le résultat est juste top, pour un budget final très raisonable. Il reste bien sur quelques points à améliorer, mais en tout cas nous sommes
+très fiers de la réussite de ce projet.&lt;/p&gt;
+
+&lt;p&gt;En contre partie, seul l&amp;rsquo;amphi A a été équipé pour la captation, histoire de bien faire au moins un amphi plutt que de mal faire l&amp;rsquo;ensemble comme
+l&amp;rsquo;an dernier.&lt;/p&gt;
+
+&lt;h2 id=&#34;montage&#34;&gt;Montage&lt;/h2&gt;
+
+&lt;p&gt;Le montage est réalisé en live, l&amp;rsquo;expérience montrant une baisse de motivation et de temps libre &lt;em&gt;après&lt;/em&gt; le breizhcamp pour attaquer le montage
+de dizaines de vidéos. Nous avons juste ajoutée une petite vidéo d&amp;rsquo;intro, avec la ligne de commande qui va bien et que nous vous donnons ici parce
+qu&amp;rsquo;elle le vaut bien et aussi pour nous en souvenir l&amp;rsquo;an prochain :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;ffmpeg -i &amp;quot;$INPUT&amp;quot; -map 0 -c copy -f mpegts -bsf h264_mp4toannexb -absf aac_adtstoasc -y conf.ts
+ffmpeg -i &amp;quot;concat:intro.ts|conf.ts&amp;quot; -c copy -y &amp;quot;${NAME}_intro.mp4&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
+
+&lt;p&gt;Youtube c&amp;rsquo;est pratique, mais y&amp;rsquo;a pas de CLI. Bon ce n&amp;rsquo;est peut être pas un outil à destination des développeurs, mais tout de même,
+ça nous aurait bien arrangé. Mais ça n&amp;rsquo;a pas arrêté Alex, qui a décidé de &amp;ldquo;bricoler&amp;rdquo; une application web d&amp;rsquo;upload assurant l&amp;rsquo;authentification
+OAuth sur Youtube et l&amp;rsquo;upload en masse. D&amp;rsquo;où l&amp;rsquo;intért d&amp;rsquo;avoir la fibre, moins d&amp;rsquo;une minute par vidéo &amp;hellip; ça laisse rêveur pas mal d&amp;rsquo;entre nous :-&lt;/p&gt;
+
+&lt;h2 id=&#34;enjoy&#34;&gt;Enjoy!&lt;/h2&gt;
+
+&lt;p&gt;Et voilà, le résultat de ces efforts, ce sont 25 vidéos disponibles en ligne, avec une chouette qualité. Certains d&amp;rsquo;entre nous poussent
+à généraliser aux quatres amphis, ceux qui ont eu les mains dans le cambouis sont plus réservés &amp;hellip; en tout cas, pour 2018 et les prohcains
+meetups Rennais, vous savez déjà ce qui vous attend !&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Concours</title>
@@ -997,37 +1053,6 @@ que les autres. Le dépouillement a été délicat, et nous arrivons à deux ex 
 &lt;li&gt;&lt;a href=&#34;http://blog.xebia.fr/2016/04/06/breizhcamp-2016-compte-rendu-de-la-journee-du-jeudi&#34;&gt;Compte-rendu de la journée du jeudi&lt;/a&gt; par Xebia&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://blog.zenika.com/2016/04/06/retour-sur-le-breizhcamp-2016/&amp;quot;&amp;gt;Retour sur le Breizhcamp 2016&#34;&gt;Retour sur le Breizhcamp 2016&lt;/a&gt; par Zenika&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contest</title>
-      <link>http://www-staging.breizhcamp.org/blog/2016/03/24/2016-03-24-contest/</link>
-      <pubDate>Thu, 24 Mar 2016 23:50:00 +0200</pubDate>
-      
-      <guid>http://www-staging.breizhcamp.org/blog/2016/03/24/2016-03-24-contest/</guid>
-      <description>&lt;p&gt;Pour aider nos participants à trouver le (nouveau) lieu de la conférence, nous avions prévu une belle banderole.
-Bon, notre dictateur bénévole n&amp;rsquo;étant pas très doué, la banderole a été commandée tardivement - certains dirons &amp;ldquo;à l&amp;rsquo;arrache&amp;rdquo; -
-et sans prendre l&amp;rsquo;option &amp;ldquo;Bon A Tirer&amp;rdquo; qui permet en principe de valider le rendu avant impression.&lt;/p&gt;
-
-&lt;p&gt;Et donc &amp;hellip;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;http://www-staging.breizhcamp.org/img/blog/2016-03-24/bache.jpg&#34; alt=&#34;Bâche&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Interrogé sur le sujet, le responsable de ce qui semble une belle boulette répond :
-&amp;ldquo;Pas du tout, il s&amp;rsquo;agit d&amp;rsquo;un challenge que nous proposons à nos participants&amp;rdquo;&lt;/p&gt;
-
-&lt;p&gt;A vous donc de compléter le nom et le slogan de la conférence. Envoyez nous vos propositions sur twitter @breizhcamp, celle qui nous fera
-le plus rire gagnera &amp;hellip; un Pass BreizhCamp &lt;em&gt;A VIE&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Attention, il y a du niveau, mais même si des propositions comme celles de &lt;a href=&#34;http://blog.blaisot.org/breizhcmp-2016.html&#34;&gt;Sebastien&lt;/a&gt; nous
-font bien rire, elles ne sont as conforme au cahier des charges : il faut respecter le patter:
-&amp;ldquo;
-BreizhCa&amp;hellip;.
-La conférence à l&amp;rsquo; &amp;hellip;.
-&amp;ldquo;&lt;/p&gt;
-
-&lt;p&gt;A vous de jouer, soyez créatifs !&lt;/p&gt;
 </description>
     </item>
     
