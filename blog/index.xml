@@ -28,8 +28,8 @@ pour l&amp;rsquo;upload.&lt;/p&gt;
 que ça coûte un bras, et d&amp;rsquo;autre part parce que l&amp;rsquo;équipement de l&amp;rsquo;Université Rennes 1 cablé en VGA est un point de blocage pour pas mal de
 solutions existentes.&lt;/p&gt;
 
-&lt;p&gt;Pour 2017, après le flop de l&amp;rsquo;an dernier (2 vidéos publiées, avec un son pourri) nous avons retroussé nos manches dès septembre pour monter une
-solution complète, packagée, solide et plug&amp;rsquo;n play, que nous avons testée tout au long de l&amp;rsquo;année lors des meetups.&lt;/p&gt;
+&lt;p&gt;Pour 2017, après le flop de l&amp;rsquo;an dernier (&lt;a href=&#34;https://www.youtube.com/playlist?list=PLv7xGPH0RMURrPkyw02XYu2_yTZXw2ia3&#34;&gt;4 vidéos publiées&lt;/a&gt;, avec un son tout pourri) nous avons retroussé nos manches dès septembre pour monter une
+solution complète, packagée, solide et plug&amp;rsquo;n play, &amp;hellip; et compatible avec un système de projection hors d&amp;rsquo;age - que nous avons testée tout au long de l&amp;rsquo;année lors des meetups.&lt;/p&gt;
 
 &lt;h2 id=&#34;matos&#34;&gt;Matos&lt;/h2&gt;
 
@@ -39,8 +39,7 @@ des prises sur socle pour éviter la casse &amp;hellip; Au final nous avons du r
 Mais le résultat est juste top, pour un budget final très raisonable. Il reste bien sur quelques points à améliorer, mais en tout cas nous sommes
 très fiers de la réussite de ce projet.&lt;/p&gt;
 
-&lt;p&gt;En contre partie, seul l&amp;rsquo;amphi A a été équipé pour la captation, histoire de bien faire au moins un amphi plutt que de mal faire l&amp;rsquo;ensemble comme
-l&amp;rsquo;an dernier.&lt;/p&gt;
+&lt;p&gt;En contre partie, seul l&amp;rsquo;amphi A a été équipé pour la captation, histoire de bien faire au moins un amphi plutôt que de mal faire l&amp;rsquo;ensemble comme l&amp;rsquo;an dernier.&lt;/p&gt;
 
 &lt;h2 id=&#34;montage&#34;&gt;Montage&lt;/h2&gt;
 
@@ -56,7 +55,7 @@ ffmpeg -i &amp;quot;concat:intro.ts|conf.ts&amp;quot; -c copy -y &amp;quot;${NAM
 
 &lt;p&gt;Youtube c&amp;rsquo;est pratique, mais y&amp;rsquo;a pas de CLI. Bon ce n&amp;rsquo;est peut être pas un outil à destination des développeurs, mais tout de même,
 ça nous aurait bien arrangé. Mais ça n&amp;rsquo;a pas arrêté Alex, qui a décidé de &amp;ldquo;bricoler&amp;rdquo; une application web d&amp;rsquo;upload assurant l&amp;rsquo;authentification
-OAuth sur Youtube et l&amp;rsquo;upload en masse. D&amp;rsquo;où l&amp;rsquo;intért d&amp;rsquo;avoir la fibre, moins d&amp;rsquo;une minute par vidéo &amp;hellip; ça laisse rêveur pas mal d&amp;rsquo;entre nous :-&lt;/p&gt;
+OAuth sur Youtube et l&amp;rsquo;upload en masse. D&amp;rsquo;où l&amp;rsquo;intért d&amp;rsquo;avoir la fibre, moins d&amp;rsquo;une minute par vidéo &amp;hellip; ça laisse rêveur pas mal d&amp;rsquo;entre nous 😕&lt;/p&gt;
 
 &lt;h2 id=&#34;enjoy&#34;&gt;Enjoy!&lt;/h2&gt;
 
