@@ -34,7 +34,7 @@ solution complète, packagée, solide et plug&amp;rsquo;n play, &amp;hellip; et 
 &lt;h2 id=&#34;matos&#34;&gt;Matos&lt;/h2&gt;
 
 &lt;p&gt;La liste du matériel c&amp;rsquo;est rapidement allongée avec notre envie de bien faire &amp;hellip;
-Aux cartes d&amp;rsquo;acquisition HDMI s&amp;rsquo;est ajouté une table de mixage, un micro sans fil numérique serre-tête, un comrpesseur audio, un écran de contrôle intégré au boitier,
+Aux cartes d&amp;rsquo;acquisition HDMI s&amp;rsquo;est ajouté une table de mixage, un micro sans fil numérique serre-tête, un compresseur audio, un écran de contrôle intégré au boitier,
 des prises sur socle pour éviter la casse &amp;hellip; Au final nous avons du rajouter un diable pour rendre le tout transportable sans fatiguer nos vertèbres.
 Mais le résultat est juste top, pour un budget final très raisonable. Il reste bien sur quelques points à améliorer, mais en tout cas nous sommes
 très fiers de la réussite de ce projet.&lt;/p&gt;
@@ -43,7 +43,7 @@ très fiers de la réussite de ce projet.&lt;/p&gt;
 
 &lt;h2 id=&#34;montage&#34;&gt;Montage&lt;/h2&gt;
 
-&lt;p&gt;Le montage est réalisé en live, l&amp;rsquo;expérience montrant une baisse de motivation et de temps libre &lt;em&gt;après&lt;/em&gt; le breizhcamp pour attaquer le montage
+&lt;p&gt;Le montage est réalisé en live avec &lt;a href=&#34;https://obsproject.com/&#34;&gt;OBS&lt;/a&gt;, l&amp;rsquo;expérience montrant une baisse de motivation et de temps libre &lt;em&gt;après&lt;/em&gt; le breizhcamp pour attaquer le montage
 de dizaines de vidéos. Nous avons juste ajoutée une petite vidéo d&amp;rsquo;intro, avec la ligne de commande qui va bien et que nous vous donnons ici parce
 qu&amp;rsquo;elle le vaut bien et aussi pour nous en souvenir l&amp;rsquo;an prochain :&lt;/p&gt;
 
@@ -55,7 +55,9 @@ ffmpeg -i &amp;quot;concat:intro.ts|conf.ts&amp;quot; -c copy -y &amp;quot;${NAM
 
 &lt;p&gt;Youtube c&amp;rsquo;est pratique, mais y&amp;rsquo;a pas de CLI. Bon ce n&amp;rsquo;est peut être pas un outil à destination des développeurs, mais tout de même,
 ça nous aurait bien arrangé. Mais ça n&amp;rsquo;a pas arrêté Alex, qui a décidé de &amp;ldquo;bricoler&amp;rdquo; une application web d&amp;rsquo;upload assurant l&amp;rsquo;authentification
-OAuth sur Youtube et l&amp;rsquo;upload en masse. D&amp;rsquo;où l&amp;rsquo;intért d&amp;rsquo;avoir la fibre, moins d&amp;rsquo;une minute par vidéo &amp;hellip; ça laisse rêveur pas mal d&amp;rsquo;entre nous 😕&lt;/p&gt;
+OAuth sur Youtube et l&amp;rsquo;upload en masse. D&amp;rsquo;où l&amp;rsquo;intérêt d&amp;rsquo;avoir la fibre, moins d&amp;rsquo;une minute par vidéo &amp;hellip; ça laisse rêveur pas mal d&amp;rsquo;entre nous 😕&lt;/p&gt;
+
+&lt;p&gt;Le projet est open source et disponible dans le répertoire video-uploader du repo &lt;a href=&#34;https://github.com/breizhcamp/tools&#34;&gt;https://github.com/breizhcamp/tools&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;enjoy&#34;&gt;Enjoy!&lt;/h2&gt;
 
