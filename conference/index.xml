@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Conférence on BreizhCamp - 7ème édition</title>
-    <link>http://www-staging.breizhcamp.org/conference/index.xml</link>
-    <description>Recent content in Conférence on BreizhCamp - 7ème édition</description>
+    <title>Conférence on BreizhCamp - 8ème édition</title>
+    <link>http://www-staging.breizhcamp.org/conference/</link>
+    <description>Recent content in Conférence on BreizhCamp - 8ème édition</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-FR</language>
-    <copyright>Copyright (c) 2017, BreizhCamp team</copyright>
-    <atom:link href="http://www-staging.breizhcamp.org/conference/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>&lt;p&gt;Copyright (c) 2017, BreizhCamp team&lt;/p&gt;
+        &lt;p&gt;&lt;a href=&#34;https://github.com/breizhcamp/website&#34;&gt;Améliorer ce site&lt;/a&gt;&lt;/p&gt;
+        </copyright>
+    
+	<atom:link href="http://www-staging.breizhcamp.org/conference/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Programme</title>
