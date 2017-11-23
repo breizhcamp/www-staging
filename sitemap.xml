@@ -128,17 +128,16 @@
   </url>
   
   <url>
+    <loc>http://www-staging.breizhcamp.org/</loc>
+    <lastmod>2017-05-02T08:00:00+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www-staging.breizhcamp.org/asso/</loc>
   </url>
   
   <url>
     <loc>http://www-staging.breizhcamp.org/blog/</loc>
-    <lastmod>2017-05-02T08:00:00+02:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www-staging.breizhcamp.org/</loc>
     <lastmod>2017-05-02T08:00:00+02:00</lastmod>
     <priority>0</priority>
   </url>
