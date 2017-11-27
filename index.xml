@@ -280,16 +280,6 @@ Tout d’abord, nous vous avions promis de doubler la capacité d’accueil, les
     </item>
     
     <item>
-      <title>Association</title>
-      <link>http://www-staging.breizhcamp.org/asso/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www-staging.breizhcamp.org/asso/</guid>
-      <description>Le BreizhCamp est une association loi 1901 dont l&amp;rsquo;objectif est d’organiser et de faciliter des événements autour de l’ingénierie informatique. Dans ce cadre, l&amp;rsquo;association organise son événement annuel éponyme que vous connaissez sans doute vu que vous êtes sur le site web. Mais BreizhCamp c&amp;rsquo;est aussi un ensemble de groupes d&amp;rsquo;utilisateurs locaux qui organisent chaque mois des soirées techniques sur divers thèmes.
-BreizhJUG, le Java User Group à l&amp;rsquo;origine du BreizhCamp en 2011 http://www.</description>
-    </item>
-    
-    <item>
       <title>Pdf</title>
       <link>http://www-staging.breizhcamp.org/pdf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -313,7 +303,8 @@ BreizhJUG, le Java User Group à l&amp;rsquo;origine du BreizhCamp en 2011 http:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www-staging.breizhcamp.org/venir/</guid>
-      <description>Billetterie La billetterie n&amp;rsquo;est pas encore ouverte. Lieu de la conférence Le BreizhCamp se déroule dans le bâtiment 2A de l’Université Rennes 1, sur le campus de Beaulieu à Rennes.
+      <description>Billetterie La billetterie n&amp;rsquo;est pas encore ouverte.
+Lieu de la conférence Le BreizhCamp se déroule dans le bâtiment 2A de l’Université Rennes 1, sur le campus de Beaulieu à Rennes.
   Plan de l&amp;#39;université   L&amp;rsquo;adresse exacte est :
  Université de Rennes 1, Campus de Beaulieu
 263, avenue du Général Leclerc
