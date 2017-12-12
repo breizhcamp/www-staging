@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www-staging.breizhcamp.org/blog/2017/12/12/2017-12-08-newsletter-0/</loc>
+    <lastmod>2017-12-12T09:45:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www-staging.breizhcamp.org/blog/2017/05/02/2017-05-02-video/</loc>
     <lastmod>2017-05-02T08:00:00+02:00</lastmod>
   </url>
@@ -129,7 +134,7 @@
   
   <url>
     <loc>http://www-staging.breizhcamp.org/</loc>
-    <lastmod>2017-05-02T08:00:00+02:00</lastmod>
+    <lastmod>2017-12-12T09:45:00+01:00</lastmod>
   </url>
   
   <url>
@@ -138,7 +143,7 @@
   
   <url>
     <loc>http://www-staging.breizhcamp.org/blog/</loc>
-    <lastmod>2017-05-02T08:00:00+02:00</lastmod>
+    <lastmod>2017-12-12T09:45:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
