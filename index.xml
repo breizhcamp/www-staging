@@ -9,10 +9,21 @@
     <copyright>&lt;p&gt;Copyright (c) 2017, BreizhCamp team&lt;/p&gt;
         &lt;p&gt;&lt;a href=&#34;https://github.com/breizhcamp/website&#34;&gt;Améliorer ce site&lt;/a&gt;&lt;/p&gt;
         </copyright>
-    <lastBuildDate>Tue, 12 Dec 2017 18:10:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2018 19:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://www-staging.breizhcamp.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Lettre d&#39;Information #1</title>
+      <link>http://www-staging.breizhcamp.org/blog/2018/01/08/2018-01-08-newsletter-1/</link>
+      <pubDate>Mon, 08 Jan 2018 19:00:00 +0100</pubDate>
+      
+      <guid>http://www-staging.breizhcamp.org/blog/2018/01/08/2018-01-08-newsletter-1/</guid>
+      <description>28 au 30 mars 2018 
+Comme vous êtes nombreux à l’avoir déjà deviné, le thème de cette année sera Retour vers le Futur ! Aussi, nous avons habillé notre site Web en conséquence. Et bien sûr, nous vous préparons des surprises sur ce thème, stay tuned !
+La billetterie est ouverte ! Nous ouvrons aujourd’hui la billetterie. Quelques nouveautés cette année mais ce qui ne change pas : le prix !</description>
+    </item>
     
     <item>
       <title>Lettre d&#39;Information #0</title>
