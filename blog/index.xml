@@ -9,10 +9,21 @@
     <copyright>&lt;p&gt;Copyright (c) 2017, BreizhCamp team&lt;/p&gt;
         &lt;p&gt;&lt;a href=&#34;https://github.com/breizhcamp/website&#34;&gt;Améliorer ce site&lt;/a&gt;&lt;/p&gt;
         </copyright>
-    <lastBuildDate>Mon, 08 Jan 2018 19:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2018 10:00:00 +0100</lastBuildDate>
     
 	<atom:link href="http://www-staging.breizhcamp.org/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Women in Tech</title>
+      <link>http://www-staging.breizhcamp.org/blog/2018/02/12/2018-02-12-womenintech/</link>
+      <pubDate>Mon, 12 Feb 2018 10:00:00 +0100</pubDate>
+      
+      <guid>http://www-staging.breizhcamp.org/blog/2018/02/12/2018-02-12-womenintech/</guid>
+      <description>If you have watched BreizhCamp&amp;rsquo;18 video trailer you might have noticed this flyer with a woman in bikini advertising &amp;ldquo;DosDev&amp;rdquo;. Doesn&amp;rsquo;t look like a nice way to support #WomenInTech, does it ?
+Some notes about the context.
+PCSoft PCSoft is a French company, editor of &amp;ldquo;WinDev&amp;rdquo;, which publish terrible advertisements using sexy women pictures, many of them being terribly embarassing. We let you search google for an overview. This is something we denounce for a while.</description>
+    </item>
     
     <item>
       <title>Lettre d&#39;Information #1</title>
