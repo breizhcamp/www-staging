@@ -332,18 +332,6 @@ Tout d’abord, nous vous avions promis de doubler la capacité d’accueil, les
     </item>
     
     <item>
-      <title>Services</title>
-      <link>http://www-staging.breizhcamp.org/conference/services/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www-staging.breizhcamp.org/conference/services/</guid>
-      <description>Restauration et boissons Un service de restauration gratuite est ouvert aux participants le midi dans le hall. De plus des boissons chaudes et froides vous seront offertes tout au long de la journée.
-Et jeudi soir, ne manquez pas le Meet &amp;amp; Greet offert par nos sponsors !
-Vestiaire Un vestiaire non surveillé est à votre disposition près de l&amp;rsquo;accueil.
-WiFi L’Université Rennes 1 met à disposition son réseau WiFi.</description>
-    </item>
-    
-    <item>
       <title>Speakers</title>
       <link>http://www-staging.breizhcamp.org/conference/speakers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -359,6 +347,18 @@ WiFi L’Université Rennes 1 met à disposition son réseau WiFi.</description>
       
       <guid>http://www-staging.breizhcamp.org/sponsors/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Tout le reste</title>
+      <link>http://www-staging.breizhcamp.org/conference/toutlereste/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www-staging.breizhcamp.org/conference/toutlereste/</guid>
+      <description>Accueil A votre arrivée, afin de faciliter votre entrée et limiter le temps d&amp;rsquo;attente, pensez à vous munir de votre billet (format papier ou sur smartphone) et d&amp;rsquo;une pièce d&amp;rsquo;identité.
+En effet, un contrôle des billets sera effectué avant l&amp;rsquo;accueil, donc veillez à les avoir à portée de main.
+Si vous êtes speaker lors de cette conférence, signalez-vous dès le contrôle.
+Restauration et boissons Un service de restauration gratuite est ouvert aux participants le midi dans le hall.</description>
     </item>
     
     <item>
