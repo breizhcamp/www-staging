@@ -431,7 +431,7 @@
     "speakers": "Adrien Lecharpentier, Damien Duportal",
     "video_url": null,
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://speakerdeck.com/alecharp/10-choses-que-tout-le-monde-fait-quil-ne-faut-pas-faire-avec-jenkins",
     "description": "Jenkins a plus de 12 ans ! Après 10 ans passé en 1.x (658 releases tout de même), en 2016 le projet a sauté le cap de la 2.0. Le nombre d’instances de Jenkins ne cesse de croître, tout comme le nombre de plugins. \n\nBref, nous avons tous, un jour, fait, utilisé ou croisé la route d’un Jenkins (si si, le gars serviable qui build vos projets pour vous!). \n\nMais, utilisons-nous Jenkins correctement?\n\nNous allons parcourir ensemble 10 “mauvaises” pratiques avec Jenkins, pourtant des plus communes, ainsi que leur prévention, et quelques pistes pour améliorer votre expérience avec Jenkins.\n\n_DISCLAIMER_ : si vous vous surprenez à penser “Mais on fait ça au boulot, parce que …”, souvenez-vous que nous l’avons **TOUS** fait auparavant, et commencez à chercher comment adapter."
   },
   {
@@ -596,7 +596,7 @@
     "speakers": "Nicolas Pennec",
     "video_url": null,
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://docs.google.com/presentation/d/e/2PACX-1vSrym1ZiZdTpEPI_XEpdWHMYlD-uJAzo61qZ7o1zYb5suWfeSQzR8DGWNTD7wpDFS3IqxWCCfKLZTOr/pub",
     "description": "\"3 Décembre 2014, John Spartan, jeune développeur JavaScript surnommé Migration Man, est cryogénisé à titre de punition pour passage par imprudence sur io.js 1.0, le nouveau fork dissident de Node.js 0.10 !  \nAvant d'être arrété, il commita le code source ES5 de son side-project révolutionnaire sur GitHub.  \n28 Mars 2018, il est finalement libéré de sa prison de glace, en raison de la grande pénurie de développeurs JavaScript qui sévit dans l'Ouest.  \nVoulant reprendre le développement de son projet perso, il découvrit avec stupéfaction la supprématie de Node 8 LTS et décide de migrer son code JS en ES2018.\"\n\nEquipé de nos meilleurs outils open-source, notre mission sera de l'aider à refactorer son projet en code JavaScript du futur !\n\nEnfin nous verrons comment utiliser les 3 coquillages."
   },
   {
@@ -656,7 +656,7 @@
     "speakers": "Pierre-Yves Aillet, Eric Briand",
     "video_url": null,
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://speakerdeck.com/pyaillet/linuxkit-le-linux-facon-ikea",
     "description": "Cela fait des années que certaines distributions linux permettent de construire son linux “from scratch” mais cela restait une opération compliquée et périlleuse. LinuxKit propose la même chose mais avec une approche beaucoup plus moderne et outillée. Cela devient presque aussi facile que de monter un meuble ikea ! (avec une notice quand même)\n\nLe projet LinuxKit, créé par Docker Inc., a été pensé pour créer un OS aussi minimaliste et maintenable que possible (sans compromis avec la sécurité) et y déployer des conteneurs.\n\nNous allons vous présenter la genèse et les concepts du projet, l’écosystème des outils complémentaires qui vous permettront de composer et construire votre distribution. Puis, nous créerons notre première distribution en live !"
   },
   {
@@ -746,7 +746,7 @@
     "speakers": "Yoan Rousseau, Pierre-Yves Aillet",
     "video_url": null,
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://speakerdeck.com/pyaillet/metrologie-et-alerting-avec-prometheus-et-grafana",
     "description": "Prometheus est un outil open source qui permet de collecter facilement des métriques et de créer des alertes en fonction des valeurs récoltées.\nVenez découvrir comment mettre en place Prometheus et quelques collecteurs afin de monitorer l’état de santé de votre infrastructure.\nJe vous montrerais également qu’il est possible de construire vos propres métriques métiers avec SpringBoot afin de suivre la performance de vos applications au plus près et de les afficher sur un dashboard Grafana."
   },
   {
@@ -895,8 +895,8 @@
     "venue_id": "45",
     "speakers": "Nicolas Pennec",
     "video_url": null,
-    "files_url": null,
-    "slides_url": null,
+    "files_url": "https://github.com/NicoPennec/tscheck-demo",
+    "slides_url": "https://docs.google.com/presentation/d/e/2PACX-1vR_cnC9AoX-hrGS9jyCHAmn4W8Cds2iL7NUGq7y2fTAuWQS4CiNsV9GYH7S1EsezkniSxcKF_9uZeQF/pub",
     "description": "Parfois vous auriez aimé avoir un code JavaScript fortement typé qui tourne du premier coup.\n\nPas de chance, la refonte de votre projet en TypeScript ou Flow est prévue (ou pas) pour l'année prochaine uniquement...\n\nMais connaissez-vous la nouvelle feature \"ts-check\" de TypeScript ?\n\nDécouvrez comment transformer votre vieux projet Vanilla en code JS typé et robuste, sans rien faire (enfin presque ^^)"
   },
   {
@@ -1119,9 +1119,9 @@
     "venue": "Amphi C",
     "venue_id": "46",
     "speakers": "Nicolas De Loof, Fabien Tregan",
-    "video_url": null,
+    "video_url": "https://www.youtube.com/watch?v=VoLSmIaFiBg",
     "files_url": null,
-    "slides_url": null,
+    "slides_url": "https://github.com/FabienTregan/PortesLogiquesPneumatiques/tree/master/presentation",
     "description": "keynote de cloture jeudi"
   }
 ]
