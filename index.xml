@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BreizhCamp - 8ème édition - 28, 29 et 30 Mars 2018</title>
+    <title>BreizhCamp - 9ème édition - 20, 21 et 22 Mars 2019</title>
     <link>http://www-staging.breizhcamp.org/</link>
-    <description>Recent content on BreizhCamp - 8ème édition - 28, 29 et 30 Mars 2018</description>
+    <description>Recent content on BreizhCamp - 9ème édition - 20, 21 et 22 Mars 2019</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <copyright>&lt;p&gt;Copyright (c) 2017, BreizhCamp team&lt;/p&gt;
+    <copyright>&lt;p&gt;Copyright (c) 2015-2018, BreizhCamp team&lt;/p&gt;
         &lt;p&gt;&lt;a href=&#34;https://github.com/breizhcamp/website&#34;&gt;Améliorer ce site&lt;/a&gt;&lt;/p&gt;
         </copyright>
     <lastBuildDate>Fri, 23 Mar 2018 11:00:00 +0100</lastBuildDate>
@@ -343,24 +343,6 @@ Tout d’abord, nous vous avions promis de doubler la capacité d’accueil, les
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://www-staging.breizhcamp.org/pdf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programme</title>
-      <link>http://www-staging.breizhcamp.org/conference/programme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www-staging.breizhcamp.org/conference/programme/</guid>
-      <description>Les amphis C et D seront captés en vidéo. Les keynotes seront retransmises en live sur YouTube.  </description>
-    </item>
-    
-    <item>
-      <title>Speakers</title>
-      <link>http://www-staging.breizhcamp.org/conference/speakers/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://www-staging.breizhcamp.org/conference/speakers/</guid>
       <description></description>
     </item>
     
